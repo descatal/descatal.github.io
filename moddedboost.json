@@ -1,7 +1,7 @@
 {
   "version": "v0.0.1",
   "notes": "Alpha",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "pub_date": "2023-01-18T00:00:00Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "Content of app.AppImage.tar.gz.sig",
