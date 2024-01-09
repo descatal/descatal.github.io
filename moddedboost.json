@@ -5,11 +5,11 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://nightly.link/descatal/ModdedBoost/workflows/build/main/artifacts.zip"
+      "url": "https://descatal.github.io/ModdedBoost_0.0.0_x64_en-US.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://nightly.link/descatal/ModdedBoost/workflows/build/main/artifacts.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQd3ppOWNUSmJkUzNFMmsvdkRjZGpDemlJandXVjJjNzMwRjlFQThqeGFsa3pkVGlzeDUxRlNSQTg3Rk1va0I1Y0xsaHcyZGpzWFIwNnFYVzA4TFEzWEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0NzgyNTcyCWZpbGU6TW9kZGVkQm9vc3RfMC4wLjBfeDY0X2VuLVVTLm1zaS56aXAKZkxJd0tTdndjS1hiL1F5VVU3YmIvMDFveUtadzVXZkkxQXFpcXZzaEpxbk9xVlNWZTkyZ1NobGgyRytQT3ZSdVdJYitRMUZYRFBwZm13R1ZuR1F2REE9PQo=",
+      "url": "https://descatal.github.io/ModdedBoost_0.0.0_x64_en-US.msi.zip"
     }
   }
 }
