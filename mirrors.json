@@ -1,0 +1,140 @@
+{
+    "mod_files": [
+        {
+            "name": "normal",
+            "files": [
+                {
+                    "file_name": "BLJS_EBOOT",
+                    "remotes": [
+                        "https://drive.google.com/uc?export=download&id=1vW2yQlPkQ95A4fSuY-kE_yYLGdCshcL-"
+                    ]
+                },
+                {
+                    "file_name": "BLJS_EBOOT",
+                    "remotes": [
+                        "https://drive.google.com/file/d/13QVHtNgiQXdqTLamlAu8QFMdWelhQeci/view?usp=sharing"
+                    ]
+                },
+                {
+                    "file_name": "SPRX",
+                    "remotes": [
+                        "https://drive.google.com/file/d/196R0jVyAAdTUlI8cPlPvilyVr4F29kKn/view?usp=sharing"
+                    ]
+                },
+                {
+                    "file_name": "PATCHYML",
+                    "remotes": [
+                        "https://drive.google.com/file/d/13Xu_bINrqwsx0bL4HS70ZwEYtdOreewZ/view?usp=drive_link"
+                    ]
+                },
+                {
+                    "file_name": "PATCH_05",
+                    "remotes": [
+                        "https://drive.google.com/file/d/1VdnTg96D9V9Lrg1xk9UV3DXYuu0wlrOH/view?usp=sharing"
+                    ]
+                },
+                {
+                    "file_name": "PATCH_06",
+                    "remotes": [
+                        "https://drive.google.com/file/d/160rjhhH4Md4qSbXbjK0DALpNwEW5uN48/view?usp=sharing"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "china",
+            "files": [
+                {
+                    "identifier": "BLJS_EBOOT",
+                    "remotes": [
+                        "https://drive.google.com/uc?export=download&id=1vW2yQlPkQ95A4fSuY-kE_yYLGdCshcL-"
+                    ]
+                },
+                {
+                    "identifier": "BLJS_EBOOT",
+                    "remotes": [
+                        "https://drive.google.com/file/d/13QVHtNgiQXdqTLamlAu8QFMdWelhQeci/view?usp=sharing"
+                    ]
+                },
+                {
+                    "identifier": "SPRX",
+                    "remotes": [
+                        "https://drive.google.com/file/d/196R0jVyAAdTUlI8cPlPvilyVr4F29kKn/view?usp=sharing"
+                    ]
+                },
+                {
+                    "identifier": "PATCHYML",
+                    "remotes": [
+                        "https://drive.google.com/file/d/13Xu_bINrqwsx0bL4HS70ZwEYtdOreewZ/view?usp=drive_link"
+                    ]
+                },
+                {
+                    "identifier": "PATCH_05",
+                    "remotes": [
+                        "https://drive.google.com/file/d/1VdnTg96D9V9Lrg1xk9UV3DXYuu0wlrOH/view?usp=sharing"
+                    ]
+                },
+                {
+                    "identifier": "PATCH_06",
+                    "remotes": [
+                        "https://drive.google.com/file/d/160rjhhH4Md4qSbXbjK0DALpNwEW5uN48/view?usp=sharing"
+                    ]
+                }
+            ]
+        }
+    ],
+    "original_files": {
+        "BLJS10250": [
+            {
+                "name": "1.05",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/BLJS10250/BLJS10250_T11/140dac507ba5b9bb/JP0700-BLJS10250_00-FULLBOOST000105A-A0105-V0100-PE.pkg"
+            },
+            {
+                "name": "1.06",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/BLJS10250/BLJS10250_T11/140dac507ba5b9bb/JP0700-BLJS10250_00-FULLBOOST000106A-A0106-V0100-PE.pkg"
+            },
+            {
+                "name": "1.07",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/BLJS10250/BLJS10250_T11/140dac507ba5b9bb/JP0700-BLJS10250_00-FULLBOOST000107A-A0107-V0100-PE.pkg"
+            },
+            {
+                "name": "1.08",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/BLJS10250/BLJS10250_T11/140dac507ba5b9bb/JP0700-BLJS10250_00-FULLBOOST000108A-A0108-V0100-PE.pkg"
+            },
+            {
+                "name": "1.09",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/BLJS10250/BLJS10250_T11/140dac507ba5b9bb/JP0700-BLJS10250_00-FULLBOOST000109A-A0109-V0101-PE.pkg"
+            },
+            {
+                "name": "1.10",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/BLJS10250/BLJS10250_T11/140dac507ba5b9bb/JP0700-BLJS10250_00-FULLBOOST000110A-A0110-V0101-PE.pkg"
+            }
+        ],
+        "NPJB00512": [
+            {
+                "name": "1.05",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00512/NPJB00512_T11/95e93bb8fc85369e/JP0700-NPJB00512_00-FULLBOOST000100A-A0106-V0100-PE.pkg"
+            },
+            {
+                "name": "1.06",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00512/NPJB00512_T11/95e93bb8fc85369e/JP0700-NPJB00512_00-FULLBOOST000100A-A0107-V0100-PE.pkg"
+            },
+            {
+                "name": "1.07",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00512/NPJB00512_T11/95e93bb8fc85369e/JP0700-NPJB00512_00-FULLBOOST000100A-A0105-V0100-PE.pkg"
+            },
+            {
+                "name": "1.08",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00512/NPJB00512_T11/95e93bb8fc85369e/JP0700-NPJB00512_00-FULLBOOST000100A-A0108-V0100-PE.pkg"
+            },
+            {
+                "name": "1.09",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00512/NPJB00512_T11/95e93bb8fc85369e/JP0700-NPJB00512_00-FULLBOOST000100A-A0109-V0101-PE.pkg"
+            },
+            {
+                "name": "1.10",
+                "address": "http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00512/NPJB00512_T11/95e93bb8fc85369e/JP0700-NPJB00512_00-FULLBOOST000100A-A0110-V0101-PE.pkg"
+            }
+        ]
+    }
+}
