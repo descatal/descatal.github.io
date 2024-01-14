@@ -1,8 +1,8 @@
 {
-    "latest_mod_version": "1.005",
-    "mod_files": [
+    "latestModVersion": "1.005",
+    "modFiles": [
         {
-            "game_types": [
+            "gameTypes": [
                 "BLJS10250"
             ],
             "versions": [
@@ -15,7 +15,7 @@
             "md5": "1096756db1adf3d0e0a51e38c22f5157"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512"
             ],
             "versions": [
@@ -28,7 +28,7 @@
             "md5": "0cd91049b84ffb65d82e35dc069073df"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "BLJS10250",
                 "NPJB00512"
             ],
@@ -42,7 +42,7 @@
             "md5": "f79d250be403d84f8e5923b5101c05a4"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "BLJS10250",
                 "NPJB00512"
             ],
@@ -56,7 +56,7 @@
             "md5": "3083454d865208d2a84a537ac3a2b8ed"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "BLJS10250",
                 "NPJB00512"
             ],
@@ -70,7 +70,7 @@
             "md5": "b9584e18d1d7ebe0a4bd9725f7367168"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "BLJS10250",
                 "NPJB00512"
             ],
@@ -84,9 +84,9 @@
             "md5": "4b5356877c8707f2d059a8eb40c47b80"
         }
     ],
-    "original_files": [
+    "originalFiles": [
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512",
                 "BLJS10250"
             ],
@@ -99,7 +99,7 @@
             "md5": "2dd1c988ae821367749e59e0a5e36bdd"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512",
                 "BLJS10250"
             ],
@@ -112,7 +112,7 @@
             "md5": "8ef5a587a6a3df76e32100bab9c971a0"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512",
                 "BLJS10250"
             ],
@@ -125,7 +125,7 @@
             "md5": "b3fd6d3e290a12c2d18e309b9fef2498"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512",
                 "BLJS10250"
             ],
@@ -138,7 +138,7 @@
             "md5": "d00861802122c0f35d7b3db0c06a3056"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512",
                 "BLJS10250"
             ],
@@ -151,7 +151,7 @@
             "md5": "2aa3a172171a966d7487b67a0433f42c"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512",
                 "BLJS10250"
             ],
@@ -164,7 +164,7 @@
             "md5": "fa257b1af89384c8dcfba323f8bfb238"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "NPJB00512"
             ],
             "remote": {
@@ -176,7 +176,7 @@
             "md5": "5f78100250ea2f47513d1c400252bbf1"
         },
         {
-            "game_types": [
+            "gameTypes": [
                 "BLJS10250"
             ],
             "remote": {

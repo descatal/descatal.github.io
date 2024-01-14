@@ -4,37 +4,37 @@
             "groups": ["normal"],
             "files": [
                 {
-                    "file_identifier": "BLJS_EBOOT",
+                    "identifier": "BLJS_EBOOT",
                     "remotes": [
                         "https://drive.google.com/uc?export=download&id=1vW2yQlPkQ95A4fSuY-kE_yYLGdCshcL-"
                     ]
                 },
                 {
-                    "file_identifier": "NPJB_EBOOT",
+                    "identifier": "NPJB_EBOOT",
                     "remotes": [
                         "https://drive.google.com/uc?export=download&id=13QVHtNgiQXdqTLamlAu8QFMdWelhQeci"
                     ]
                 },
                 {
-                    "file_identifier": "SPRX",
+                    "identifier": "SPRX",
                     "remotes": [
                         "https://drive.google.com/uc?export=download&id=196R0jVyAAdTUlI8cPlPvilyVr4F29kKn"
                     ]
                 },
                 {
-                    "file_identifier": "PATCH_YML",
+                    "identifier": "PATCH_YML",
                     "remotes": [
                         "https://drive.google.com/uc?export=download&id=196R0jVyAAdTUlI8cPlPvilyVr4F29kKn"
                     ]
                 },
                 {
-                    "file_identifier": "PATCH_05",
+                    "identifier": "PATCH_05",
                     "remotes": [
                         "https://drive.google.com/uc?export=download&id=1VdnTg96D9V9Lrg1xk9UV3DXYuu0wlrOH"
                     ]
                 },
                 {
-                    "file_identifier": "PATCH_06",
+                    "identifier": "PATCH_06",
                     "remotes": [
                         "https://drive.google.com/uc?export=download&id=160rjhhH4Md4qSbXbjK0DALpNwEW5uN48"
                     ]
