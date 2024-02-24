@@ -1,16 +1,16 @@
 {
-    "mirrors": [
+    "mirrorGroups": [
         {
-            "groups": "normal",
+            "name": "normal",
             "remotes": [
                 {
                     "name": "Google Drive",
-                    "url": "googledrive"
+                    "rcloneName": "googledrive"
                 }
             ]
         },
         {
-            "groups": "china",
+            "name": "china",
             "remotes": [
                 {
                     "name": "Teracloud",
