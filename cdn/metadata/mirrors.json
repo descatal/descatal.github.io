@@ -1,0 +1,22 @@
+{
+    "mirrors": [
+        {
+            "groups": "normal",
+            "remotes": [
+                {
+                    "name": "Google Drive",
+                    "url": "googledrive"
+                }
+            ]
+        },
+        {
+            "groups": "china",
+            "remotes": [
+                {
+                    "name": "Teracloud",
+                    "rcloneName": "teracloud"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "modVersion": "0.1.0",
+    "syncInfos": [
+        {
+            "name": "base_folder",
+            "path": "dev_hdd0/game/{GAME_ID}",
+            "cachePath": "base_folder",
+            "remotePath": "base_folder",
+            "operation": {
+                "type": "Folder",
+                "excludeItems": [
+                    "/USRDIR/patch_01_00.psarc",
+                    "/USRDIR/patch_02_00.psarc",
+                    "/USRDIR/patch_03_00.psarc",
+                    "/USRDIR/patch_04_00.psarc",
+                    "/USRDIR/patch_05_00.psarc",
+                    "/USRDIR/patch_06_00.psarc"
+                ]
+            }
+        },
+        {
+            "name": "customSPRX",
+            "path": "dev_hdd0/customSPRX",
+            "cachePath": "misc/sprx",
+            "remotePath": "misc/sprx",
+            "operation": {
+                "type": "Folder",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch",
+            "path": "patches/imported_patch.yml",
+            "cachePath": "misc/patch",
+            "remotePath": "misc/patch",
+            "operation": {
+                "type": "File",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch_01_00.psarc",
+            "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_01_00.psarc",
+            "cachePath": "patch_01_00",
+            "remotePath": "patch_01_00",
+            "operation": {
+                "type": "Psarc",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch_02_00.psarc",
+            "type": "PackPsarc",
+            "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_02_00.psarc",
+            "cachePath": "patch_02_00",
+            "remotePath": "patch_02_00",
+            "operation": {
+                "type": "Psarc",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch_03_00.psarc",
+            "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_03_00.psarc",
+            "cachePath": "patch_03_00",
+            "remotePath": "patch_03_00",
+            "operation": {
+                "type": "Psarc",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch_04_00.psarc",
+            "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_04_00.psarc",
+            "cachePath": "patch_04_00",
+            "remotePath": "patch_04_00",
+            "operation": {
+                "type": "Psarc",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch_05_00.psarc",
+            "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_05_00.psarc",
+            "cachePath": "patch_05_00",
+            "remotePath": "patch_05_00",
+            "operation": {
+                "type": "Psarc",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        },
+        {
+            "name": "patch_06_00.psarc",
+            "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
+            "md5": "f79d250be403d84f8e5923b5101c05a4",
+            "cachePath": "patch_06_00",
+            "remotePath": "patch_06_00",
+            "operation": {
+                "type": "Psarc",
+                "md5": "f79d250be403d84f8e5923b5101c05a4"
+            }
+        }
+    ]
+}
