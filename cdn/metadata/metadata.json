@@ -112,7 +112,7 @@
         ],
         "name": "patch_05_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_05_00.psarc",
-        "md5": "f79d250be403d84f8e5923b5101c05a4",
+        "md5": "cb364890f725c773c35fa0ee9f9b203c",
         "remotePath": "psarc/patch_05_00",
         "type": "psarc"
       },
@@ -123,7 +123,7 @@
         ],
         "name": "patch_06_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
-        "md5": "b0becd0fdc35a97c746ea4c0a41d4490",
+        "md5": "d790fc81907d167882824b35248e98f6",
         "remotePath": "psarc/patch_06_00",
         "type": "psarc"
       }
