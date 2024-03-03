@@ -95,7 +95,7 @@
                 "versions": ["BLJS10250"],
                 "name": "EBOOT",
                 "path": "dev_hdd0/game/{GAME_ID}/USRDIR/EBOOT.BIN",
-                "md5": "b515155bdfb6b0579f06cba2f335fe30",
+                "md5": "1096756db1adf3d0e0a51e38c22f5157",
                 "remotePath": "patches/{GAME_ID}/EBOOT.BIN",
                 "type": "file"
             }
