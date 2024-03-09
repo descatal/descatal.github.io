@@ -1,5 +1,5 @@
 {
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "notes": "Alpha",
   "pub_date": "2023-01-18T00:00:00Z",
   "platforms": {
@@ -8,7 +8,7 @@
       "url": "https://google.com"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQdytsWkZhSDBvcWFJQzRtVGRBRlF0TXp4R2RKMEUzY1JZQmw2SkVJU2NmSzZOeGt1UytkUHRCNkU0UWNwSVFFM0plZHBVR1o3R3JFUXFtbG1IUVJhU3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NjgzNjAwCWZpbGU6TW9kZGVkQm9vc3RfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKc2RHdzZtUVMwSStVWjVlcTd1eGJpbm1CSU9GaUFEK1ZFNXBFNDgrNmtRS05yRTJSYXdGSEY0TmZIQUNYUllMSjJIZnliZk1MWmFnL1AwN1lrOHNtQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQdzFycitjTUQyMVhRdHg5LzgwU0owa0c4b09MYW5jbTNIVFlSWWpOcURmTUV1cGVQYzUyWTMrMWRsKzdIVTlUdmFmZWwxTzNtazhmZEZTeFcrTndDclFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5OTc4MTk4CWZpbGU6TW9kZGVkQm9vc3RfMC4xLjFfeDY0X2VuLVVTLm1zaS56aXAKM1liZGlvZ2dnZ3BUYm9sWjQyajVnQmxlSjlYSCtDS2crM2xNRHFxenEwY09XOE9xVmZ2OEZxbnR0aWJJK3VuQXZ1VVJzeFloSVBLckVqcjc1b1RwRFE9PQo=",
       "url": "https://descatal.github.io/cdn/updates/ModdedBoost_x64_en-US.msi.zip"
     }
   }
