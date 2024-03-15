@@ -3,6 +3,7 @@
     "path": "dev_hdd0/game/{GAME_ID}",
     "remotePath": "base_folder/{GAME_ID}",
     "excludePaths": [
+      "/USRDIR/dlc",
       "/USRDIR/patch_01_00.psarc",
       "/USRDIR/patch_02_00.psarc",
       "/USRDIR/patch_03_00.psarc",
