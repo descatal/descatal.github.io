@@ -2,7 +2,7 @@
   "base": {
     "path": "dev_hdd0/game/{GAME_ID}",
     "remotePath": "base_folders/{GAME_ID}",
-    "dlcPath": "dev_hdd0/game/NPJB00512/USRDIR",
+    "dlcPath": "dev_hdd0/game/NPJB00512/USRDIR/dlc",
     "dlcRemotePath": "base_folders/dlc",
     "excludePaths": [
       "/USRDIR/dlc/**",
