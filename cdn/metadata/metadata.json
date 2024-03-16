@@ -1,8 +1,9 @@
 {
   "base": {
     "path": "dev_hdd0/game/{GAME_ID}",
-    "remotePath": "base_folder/{GAME_ID}",
-    "dlcPath": "base_folder/dlc",
+    "remotePath": "base_folders/{GAME_ID}",
+    "dlcPath": "dev_hdd0/game/NPJB00512/USRDIR",
+    "dlcRemotePath": "base_folders/dlc",
     "excludePaths": [
       "/USRDIR/dlc/**",
       "/USRDIR/patch_01_00.psarc",
