@@ -4,6 +4,9 @@
     "remotePath": "base_folders/{GAME_ID}",
     "dlcPath": "dev_hdd0/game/NPJB00512/USRDIR/dlc",
     "dlcRemotePath": "base_folders/dlc",
+    "patchPath": "patches/imported_patch.yml",
+    "patchRemotePath": "patches/imported_patch.yml",
+    "patchMd5": "4b5356877c8707f2d059a8eb40c47b80",
     "excludePaths": [
       "/USRDIR/dlc/**",
       "/USRDIR/patch_01_00.psarc",
@@ -50,17 +53,6 @@
         "path": "dev_hdd0/customSPRX/FBmod.sprx",
         "md5": "20fd1febecda1e704521189daa956ad6",
         "remotePath": "patches/FBmod.sprx",
-        "type": "file"
-      },
-      {
-        "versions": [
-          "NPJB00512",
-          "BLJS10250"
-        ],
-        "name": "patch",
-        "path": "patches/imported_patch.yml",
-        "md5": "4b5356877c8707f2d059a8eb40c47b80",
-        "remotePath": "patches/imported_patch.yml",
         "type": "file"
       },
       {
