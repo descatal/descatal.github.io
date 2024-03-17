@@ -4,7 +4,7 @@
             "name": "normal",
             "remotes": [
                 {
-                    "pingUrl": "google.com",
+                    "testUrl": "google.com",
                     "name": "Google Drive",
                     "rcloneName": "googledrive"
                 }
@@ -14,7 +14,7 @@
             "name": "china",
             "remotes": [
                 {
-                    "pingUrl": "qiniu.com",
+                    "testUrl": "qiniu.com",
                     "name": "Qiniu",
                     "rcloneName": "qiniu"
                 }
