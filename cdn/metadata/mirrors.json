@@ -2,7 +2,7 @@
     "mirrorGroups": [
         {
             "name": "normal",
-            "testUrl": "https://google.com.com",
+            "testUrl": "https://google.com",
             "remotes": [
                 {
                     "name": "Google Drive",
