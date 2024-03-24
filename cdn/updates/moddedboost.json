@@ -1,5 +1,5 @@
 {
-  "version": "v0.1.1",
+  "version": "v0.2.0",
   "notes": "Alpha",
   "pub_date": "2023-01-18T00:00:00Z",
   "platforms": {
@@ -8,8 +8,8 @@
       "url": "https://google.com"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQdytrK2JMZTNjSGVKNTBlL0Z2NnpQNVVyUEgzS2pDOFNjS0g4cXlCNFlzZ1h5VUtjYWg2MGxmRThHRGpWaWNoMXVKKzFpVFZUM0h3WU1YT2J2OG1LQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5OTg5NzI3CWZpbGU6TW9kZGVkQm9vc3RfMC4xLjFfeDY0X2VuLVVTLm1zaS56aXAKS3MvNG5hVzljMUtJbnUyU05xTnd5WnpUaENWWmlTY2NyVGp4QmM0d2trSFhQaVR2NVhVTTBxR1o2WVlvNVBNRFRXdVl0aVpQK25BWDJuMVZ1YzZxQVE9PQo=",
-      "url": "https://drive.google.com/file/d/12GrxZ8r4f4KzxANlf_-LjeqXPQTykWtW/view?usp=sharing"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQdzdCYUtvaHpGVG81NW9sUXNhZFk4REgrQmQweDVvQXpqRFMxQ0Q2MkNUS3hjbUhFV01JcGltem9vb29uR2p3ckJRRmJ2Y0NjWWpPNHJIcXloYzN3anc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMjUyNjc2CWZpbGU6TW9kZGVkQm9vc3RfMC4yLjBfeDY0X2VuLVVTLm1zaS56aXAKOE8zSHF4ZG9lZnJzdHJzL29ISmtSS1pQUUdveWJudW9JV1BER2w0dXJDS2dkVjg4RjM2UXIrYWFraG5TRDh4RnUxL2Z1M2ZUMWFXa2FXa1BoRjBtQkE9PQo=",
+      "url": "https://drive.google.com/file/d/1F4NM-h6QBEnMWz8ZZjMAm6-94OYCfa2s/view?usp=sharing"
     }
   }
 }
