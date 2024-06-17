@@ -24,7 +24,7 @@
     ]
   },
   "mod": {
-    "modVersion": "0.1.0-hotfix",
+    "modVersion": "0.1.1-beta",
     "files": [
       {
         "versions": [
@@ -130,7 +130,7 @@
         ],
         "name": "patch_06_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
-        "md5": "17e6ad51d6b75cd37e4be427e7d8b0a7",
+        "md5": "fd59dc4fa64e60880f6bd83725783893",
         "remotePath": "psarc/patch_06_00",
         "type": "psarc"
       }
