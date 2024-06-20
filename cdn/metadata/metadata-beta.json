@@ -130,7 +130,7 @@
         ],
         "name": "patch_06_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
-        "md5": "A9547A1925EEC5EF244775806D9A7DD9",
+        "md5": "a9547a1925eec5ef244775806d9a7dd9",
         "remotePath": "psarc/patch_06_00",
         "type": "psarc"
       }
