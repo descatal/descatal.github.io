@@ -46,7 +46,7 @@
         "versions": ["NPJB00512", "BLJS10250"],
         "name": "SPRX",
         "path": "dev_hdd0/customSPRX/FBmod.sprx",
-        "md5": "ced2977ce0cd3ca9ec8b718bb5ff0c95",
+        "md5": "3ee2564d12941f08e78532396ec3d370",
         "remotePath": "patches/FBmod.sprx",
         "type": "file"
       },
@@ -102,7 +102,7 @@
         "versions": ["NPJB00512", "BLJS10250"],
         "name": "patch_06_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
-        "md5": "5bc8af5b95547105b456a2e6e595acf9",
+        "md5": "bf789f0ed3310ad12aa7a8d668d68432",
         "remotePath": "psarc/patch_06_00",
         "type": "psarc"
       }
