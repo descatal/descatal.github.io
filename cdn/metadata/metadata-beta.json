@@ -102,7 +102,7 @@
         "versions": ["NPJB00512", "BLJS10250"],
         "name": "patch_06_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
-        "md5": "bf789f0ed3310ad12aa7a8d668d68432",
+        "md5": "9361fb481f0292c584aae04e6c54944f",
         "remotePath": "psarc/patch_06_00",
         "type": "psarc"
       }
