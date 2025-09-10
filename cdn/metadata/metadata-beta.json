@@ -24,7 +24,7 @@
     ]
   },
   "mod": {
-    "modVersion": "0.1.2-beta",
+    "modVersion": "0.1.3-beta",
     "files": [
       {
         "versions": ["NPJB00512"],
@@ -102,7 +102,7 @@
         "versions": ["NPJB00512", "BLJS10250"],
         "name": "patch_06_00.psarc",
         "path": "dev_hdd0/game/{GAME_ID}/USRDIR/patch_06_00.psarc",
-        "md5": "9361fb481f0292c584aae04e6c54944f",
+        "md5": "3fab32979aa237a20ddad4dc8c623822",
         "remotePath": "psarc/patch_06_00",
         "type": "psarc"
       }
